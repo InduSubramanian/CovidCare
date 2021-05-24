@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "481511041059",
+    "firebase_url": "https://covidcare-79002-default-rtdb.firebaseio.com",
+    "project_id": "covidcare-79002",
+    "storage_bucket": "covidcare-79002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481511041059:android:c29a0c0f5ca946871a2996",
+        "android_client_info": {
+          "package_name": "com.example.CovidCare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481511041059-4psqt3usiaj34l5j0pptnsmi4m4nf16r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNWXQM_mXo5GrYeMBigIfSTYP5oBPy840"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481511041059-4psqt3usiaj34l5j0pptnsmi4m4nf16r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481511041059:android:ef22f3dc2f60ad6d1a2996",
+        "android_client_info": {
+          "package_name": "com.example.covidcare_volunteer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481511041059-4psqt3usiaj34l5j0pptnsmi4m4nf16r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNWXQM_mXo5GrYeMBigIfSTYP5oBPy840"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481511041059-4psqt3usiaj34l5j0pptnsmi4m4nf16r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
