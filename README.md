@@ -13,10 +13,14 @@ CovidCare is a mobile application which acts as a **comprehensive guide and aid 
 
 	Patients under home quarantine are prescribed certain medications  to be taken on a daily basis that help control the infection. The timely reminders in the application will notify the patients to regularly take their medications.
 	
+	<img src='gifs/reminder.gif' width=200 height=400> 
+	
 
 - **Quarantine tracking**
 
 	The patient can keep track of the number of days they have been in quarantine in the app bar.
+	
+	<img src='gifs/quarantinetrack.gif' width=200 height=400>
 
 - **Mental Health Inspector**
 
