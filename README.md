@@ -66,7 +66,7 @@ CovidCare is a mobile application which acts as a **comprehensive guide and aid 
 	
 	<img src='gifs/guidelines.gif' width=200 height=400> 
 
-
+**PPT link:** https://docs.google.com/presentation/d/1h-1KO7-8DVVoWOOVV9FZoG1eH4xJIQbw4v6Kp0SsOqI/edit?usp=sharing
 
 ## **Hardware and Software requirements:**
 - Flutter v1.22.2
