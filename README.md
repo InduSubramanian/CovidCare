@@ -42,7 +42,7 @@ CovidCare is a mobile application which acts as a **comprehensive guide and aid 
 	
 - **Covid Bed Availability**
 
-	In case of severe infection, the patient may need to be admitted to a hospital for further care and treatment. The links of websites (state-wise), regularly updated by Government Organisation, available in the Helplines would prove to be very useful.
+	In case of severe infection, the patient may need to be admitted to a hospital for further care and treatment. The links of websites (state-wise), regularly updated by Government Organisations, available in the Helplines would prove to be very useful.
 	
 	<img src='gifs/bed.gif' width=200 height=400> 
 	
@@ -54,13 +54,13 @@ CovidCare is a mobile application which acts as a **comprehensive guide and aid 
 	
 - **Contact Volunteer and CovidCare Volunteer app**
 
-	As the patient is quarantined they cannot go outside to buy essentials, for which a volunteer is assigned to them. Once the patient is notified of their volunteer's details, they can use the app to connect with the volunteer. On the other side, a volunteer can use the CovidCare Volunteer app to login and view the volunteers that have been assigned to them along with their address and phone number.
+	As the patient is quarantined they cannot go outside to buy essentials, for which a volunteer is assigned to them. Once the patient is notified of their volunteer's details, they can use the app to connect with the volunteer. On the other side, a volunteer can use the CovidCare Volunteer app to login and view the patients that have been assigned to them along with their address and phone number.
 	
 	<img src='gifs/volunteer.gif' width=200 height=400> 
 	
 - **Pranayama**
 
-	It has been scientifically proven that Pranayama increases lung capacity and boosts immunity. The app provides a virtual assist and encourages the patient to perform breathing exercises daily.
+	It has been scientifically proven that Pranayama increases lung capacity and boosts immunity. The app provides virtual assistance and encourages the patient to perform breathing exercises daily.
 	
 	<img src='gifs/pranayama.gif' width=200 height=400> 
 	
