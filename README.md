@@ -1,3 +1,3 @@
 # CovidCare
 
-![alt text](DFD_CovidCare.png)
+![](DFD_CovidCare.png)
