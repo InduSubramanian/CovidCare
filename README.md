@@ -6,7 +6,7 @@
  
  ## **Description:** 
 	
-CovidCare is a mobile application which acts as a **comprehensive guide and aid for infected people**, eligible for home quarantine, and normal  users. 
+CovidCare is a mobile application which acts as a **comprehensive guide and aid for infected people**, eligible for home quarantine, and normal  users. The application helps to keep all the required data in one place and makes it easily accessible and available to the public.
 
 ### **Features:**
 - **Reminders**
