@@ -92,4 +92,10 @@ CovidCare is a mobile application which acts as a **comprehensive guide and aid 
 
 ## **Data Flow Diagram**
 ![](DFD_CovidCare.png)
+
+## **Future improvements:**
+- Volunteer and Patient chat facilites
+- Features to connect with doctor, pharmacy and emergency care
+- Covid rehabilitation facilities to ease the patients back to normalcy
+- Verified Covid19 news, do's and dont's
  
