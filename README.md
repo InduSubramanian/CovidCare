@@ -56,6 +56,15 @@ CovidCare is a mobile application which acts as a **comprehensive guide and aid 
 - Dart v2.10.2
 - Firebase
 - IDE used: Visual Studio Code
+- Flutter Packages used:
+
+	- flutter_local_notifications (for reminders)
+	- url_launcher (to connect websites and make calls) 
+	- webview
+	- rive (for animations) 
+	- fl_chart (for visualising graphs)
+	- firebase_core, firebase_database: (for database)
+	- location ( to get user’s current location)
 
 ## **Process Flow:**
 ![](CovidCare_Process_Flow.png)
