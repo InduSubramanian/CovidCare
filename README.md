@@ -9,7 +9,7 @@
 	- Firebase
 	- IDE used: Visual Studio Code
 - **Process Flow:**
-![](CovidCare_Process_Flow.png)
+
 - **Data Flow Diagram**
 ![](DFD_CovidCare.png)
  
