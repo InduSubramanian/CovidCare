@@ -22,49 +22,49 @@ CovidCare is a mobile application which acts as a **comprehensive guide and aid 
 
 	Social isolation and quarantine can be mentally stressful. By taking the Mental Health Quiz one can be aware of their mental state and contact a counsellor if required. 
 		
-	<img src='gifs/mentalhealth.gif' width=400 height=800> 
+	<img src='gifs/mentalhealth.gif' width=200 height=400> 
 
 - **Covid Meals/Food contacts**
 
 	The infected patients are usually in a very tired and exhuasted state. Making their own meals would be difficult. The contacts provided in the Helplines deliver meals to the patient's address.
 	
-	<img src='gifs/food.gif' width=400 height=800> 
+	<img src='gifs/food.gif' width=200 height=400> 
 
 - **Health Logs**
 
 	During quarantine it is necessary to monitor the patient's vitals. The patient can log their Oxygen Saturation level (SpO2), Temperature, Pulse rate daily and view them as graphs. If the SpO2 is below 95% they are alerted and redirected to the Helplines page.
 	
-	<img src='gifs/healthlogs.gif' width=400 height=800> 
+	<img src='gifs/healthlogs.gif' width=200 height=400> 
 	
 - **Covid Bed Availability**
 
 	In case of severe infection, the patient may need to be admitted to a hospital for further care and treatment. The links of websites (state-wise), regularly updated by Government Organisation, available in the Helplines would prove to be very useful.
 	
-	<img src='gifs/bed.gif' width=400 height=800> 
+	<img src='gifs/bed.gif' width=200 height=400> 
 	
 - **Nearby Covid Testing Centres**
 
 	Once the quarantine is over, it is essential to perform a test and confirm that the patient is now free of infection. The patient can view nearby testing centres and contact them to book a test.
 	
-	<img src='gifs/testing.gif' width=400 height=800> 
+	<img src='gifs/testing.gif' width=200 height=400> 
 	
 - **Contact Volunteer and CovidCare Volunteer app**
 
 	As the patient is quarantined they cannot go outside to buy essentials, for which a volunteer is assigned to them. Once the patient is notified of their volunteer's details, they can use the app to connect with the volunteer. On the other side, a volunteer can use the CovidCare Volunteer app to login and view the volunteers that have been assigned to them along with their address and phone number.
 	
-	<img src='gifs/volunteer.gif' width=400 height=800> 
+	<img src='gifs/volunteer.gif' width=200 height=400> 
 	
 - **Pranayama**
 
 	It has been scientifically proven that Pranayama increases lung capacity and boosts immunity. The app provides a virtual assist and encourages the patient to perform breathing exercises daily.
 	
-	<img src='gifs/pranayama.gif' width=400 height=800> 
+	<img src='gifs/pranayama.gif' width=200 height=400> 
 	
 - **Guidelines**
 
 	The guidelines released by the Indian Government for covid patients and caregivers is available in the app bar. In case the government releases new guidelines, it will also be available in the updated app.
 	
-	<img src='gifs/guidelines.gif' width=400 height=800> 
+	<img src='gifs/guidelines.gif' width=200 height=400> 
 
 
 
